@@ -2,7 +2,7 @@
 This file uploader app is a user-friendly tool designed to streamline the process of uploading files to a web application or server. With its intuitive interface, users can easily select and upload files from their local devices to the designated destination.
 
 ## Introduction
-This weather app does few things offline
+This app does few things offline
 1. Fetch file data from JSON Server REST API
 2. Users can choose files to upload by browsing their computer.
 3. The uploader provides real-time feedback on the progress of file uploads, allowing users to monitor the status of their uploads
